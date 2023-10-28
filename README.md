@@ -13,4 +13,8 @@ Descargargando el archivo Jar
 
 Como podemos clonar el repositorio 
 Si quieres clonar el repositorio debe de hacer uso del siguiente comando que es 
-git clone 
+git clone https://github.com/CarinaHernandez4/SistemaVotacionFinal.git
+Como colaborar 
+Descargar la version mas reciente de Java 
+al tener descargado puedes accceder al codigo ingresando a la carpeta SistemaVitacionFinal 
+
